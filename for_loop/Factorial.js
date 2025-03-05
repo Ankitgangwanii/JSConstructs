@@ -1,4 +1,5 @@
 //read number
+
 let number = Number(process.argv[2]);
 
 //function to compute factorial
