@@ -2,6 +2,7 @@
 let start = Number(process.argv[2]); 
 let end = Number(process.argv[3]);   
 
+
 //function to check if a number is prime
 function isPrime(n) {
     if (n < 2) 
